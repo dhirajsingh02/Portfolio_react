@@ -1,0 +1,33 @@
+[
+    {
+      "type": "Education",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Jawahar_Navodaya_Vidyalaya_logo.png/250px-Jawahar_Navodaya_Vidyalaya_logo.png",
+      "title": "Jawahar Navodaya Vidyalaya, Auraiya ",
+      "subtitle": "High School",
+      "description": "Completed high school with a focus on social science, science and mathematics ",
+      "start": "April, 2017",
+      "end": "March, 2018",
+      "id": "High School"
+    },
+    {
+      "type": "Education",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Jawahar_Navodaya_Vidyalaya_logo.png/250px-Jawahar_Navodaya_Vidyalaya_logo.png",
+      "title": "Jawahar Navodaya Vidyalaya, Auraiya ",
+      "subtitle": "Intermediate",
+      "description": "Completed Intermediate with a focus on Physics, Chemistry and mathematics.",
+      "start": "April, 2019",
+      "end": "March, 2020"
+    },
+    
+    
+    {
+      "type": "Education",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Madan_Mohan_Malaviya_University_of_Technology_logo.png/250px-Madan_Mohan_Malaviya_University_of_Technology_logo.png",
+      "title": "Madan Mohan Malaviya University of Technology, Gorakhpur",
+      "subtitle": "Bachelor of Technology (Computer Science and Engineering)",
+      "description": "Self-taught in fullstack web development, mastering frontend, backend, and DevOps technologies.",
+      "start": "Nov, 2021",
+      "end": "May, 2025"
+    }
+  ]
+  

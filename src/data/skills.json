@@ -1,0 +1,44 @@
+{
+  "Languages": [
+    { "name": "C", "icon": "📟", "link": "https://www.w3schools.com/c", "level": 9 },
+    { "name": "C++", "icon": "📠", "link": "https://www.w3schools.com/cpp", "level": 8 },
+    { "name": "Python", "icon": "🐍", "link": "https://www.w3schools.com/python", "level": 7 },
+    { "name": "Java", "icon": "☕", "link": "https://www.w3schools.com/java/", "level": 4 },
+    { "name": "Object Oriented Programming", "icon": "🔄", "link": "https://developer.android.com/guide", "level": 6 },
+    { "name": "Javascript", "icon": "📜", "link": "https://www.w3schools.com/js", "level": 4 },
+    { "name": "Typescript", "icon": "📘", "link": "https://www.w3schools.com/typescript/", "level": 3 },
+    { "name": "C#", "icon": "🎵", "link": "https://www.w3schools.com/cs/", "level": 3 },
+    { "name": "PHP", "icon": "🐘", "link": "https://www.w3schools.com/php/", "level": 2 },
+    { "name": "Go", "icon": "🚀", "link": "https://www.w3schools.com/go/", "level": 3 },
+    { "name": "Prolog", "icon": "🤖", "link": "https://www.americantelemed.org/", "level": 2 },
+    { "name": "Haskell", "icon": "λ", "link": "https://www.aamc.org/what-we-do/mission-areas/education/clinical-assessment", "level": 2 }
+  ],
+  "Stacks": [
+    { "name": "Data Structure", "icon": "📊", "link": "https://nhm.gov.in/", "level": 5 },
+    { "name": "Analysis of Algorithm", "icon": "⚡", "link": "https://flutter.dev/", "level": 5 },
+    { "name": "FastAPI", "icon": "⚡", "link": "https://fastapi.tiangolo.com/", "level": 4 },
+    { "name": "React.js", "icon": "⚛️", "link": "https://reactjs.org/", "level": 5 },
+    { "name": "MongoDB", "icon": "🍃", "link": "https://www.w3schools.com/mongodb/index.php", "level": 4 },
+    { "name": "Flask", "icon": "🍶", "link": "https://flask.palletsprojects.com/", "level": 4 },
+    { "name": "Node.js", "icon": "🟢", "link": "https://nodejs.org/", "level": 4 },
+    { "name": "Express.js", "icon": "🚂", "link": "https://expressjs.com/", "level": 4 },
+    { "name": "Django", "icon": "🎸", "link": "https://www.w3schools.com/django/index.php", "level": 3 },
+    { "name": "PostgreSQL", "icon": "🐘", "link": "https://www.w3schools.com/postgresql/", "level": 4 },
+    { "name": "RESTful APIs", "icon": "🔌", "link": "https://restfulapi.net/", "level": 5 },
+    { "name": "MySQL", "icon": "🐬", "link": "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf", "level": 4 }
+  ],
+  "Tools": [
+    { "name": "Electronic Health Records (EHR)", "icon": "📋", "link": "https://www.healthit.gov/topic/scientific-initiatives/clinical-data-exchange/ehr", "level": 4 },
+    { "name": "ChatGPT", "icon": "🤖", "link": "https://openai.com/chatgpt", "level": 5 },
+    { "name": "Git", "icon": "📦", "link": "https://git-scm.com/", "level": 5 },
+    { "name": "VSCode", "icon": "💻", "link": "https://code.visualstudio.com/", "level": 5 },
+    { "name": "Metamask", "icon": "🦊", "link": "https://www.who.int/health-topics/health-information-systems#tab=tab_1", "level": 3 },
+    { "name": "Docker", "icon": "🐳", "link": "https://www.docker.com/", "level": 4 },
+    { "name": "Terraform", "icon": "🏗️", "link": "https://www.terraform.io/", "level": 3 },
+    { "name": "CI/CD Pipelines", "icon": "🔄", "link": "https://www.redhat.com/en/topics/devops/what-are-ci-cd-pipelines", "level": 4 },
+    { "name": "Truffle", "icon": "🍫", "link": "https://www.healthit.gov/topic/scientific-initiatives/clinical-data-exchange/laboratory-information-systems", "level": 2 },
+    { "name": "Genache", "icon": "🦊", "link": "https://www.ncbi.nlm.nih.gov/books/NBK470429/", "level": 2 },
+    { "name": "IPFS", "icon": "🌐", "link": "https://cloud.google.com/", "level": 3 },
+    { "name": "AWS", "icon": "☁️", "link": "https://aws.amazon.com/", "level": 4 }
+  ]
+}
