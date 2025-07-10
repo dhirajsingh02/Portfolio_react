@@ -37,7 +37,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/640px-Upwork-logo.svg.png"
     }
   },
-  "logo": "/my-portfolio/logo512.jpg",
-  "resume": "/my-portfolio/resume.pdf",
+  "logo": "/Portfolio_react/logo512.jpg",
+  "resume": "/Portfolio_react/resume.pdf",
   "copyright": "© 2025 Dhiraj Singh. All Rights Reserved."
-}
+}   
