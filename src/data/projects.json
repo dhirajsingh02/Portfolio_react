@@ -50,7 +50,7 @@
         {
           "icon": "FaHandsClapping",
           "label": "Clap",
-          "link": "https://medium.com/@adi93/the-augmented-delegation-interface-for-rag-revolutionizing-web-and-document-interaction-with-a-d-i-ccb7d60c5bfa#claps"
+          "link": "https://meation-interface-for-rag-revolun-with-a-d-i-ccb7d60c5bfa#claps"
         },
         {
           "icon": "FaComment",
@@ -62,20 +62,20 @@
     {
       "title": "My Portfolio",
       "description": "A showcase of my projects and skills across various domains and technologies",
-      "image": "https://opengraph.githubassets.com/[RANDOM_HASH]/aditya30051993/my-portfolio",
+      "image": "https://opengraph.githubassets.com/",
       "linkLabel": "Find More",
       "linkIcon": "FaGithub",
-      "linkUrl": "https://github.com/aditya30051993/my-portfolio",
+      "linkUrl": "https://dhirajsingh02.github.io/Portfolio_react/#hero",
       "ctas": [
         {
           "icon": "FaRegStar",
           "label": "Star",
-          "link": "https://github.com/aditya30051993/my-portfolio/stargazers"
+          "link": "https://github.com/dhirajsingh02/Portfolio_react/stargazers"
         },
         {
           "icon": "FaCodeFork",
           "label": "Fork",
-          "link": "https://github.com/aditya30051993/my-portfolio/fork"
+          "link": "https://github.com/dhirajsingh02/Portfolio_react/forks"
         }
       ]
     },
